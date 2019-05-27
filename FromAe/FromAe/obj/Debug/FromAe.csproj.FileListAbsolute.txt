@@ -1,0 +1,13 @@
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\bin\Debug\FromAe.exe.config
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\bin\Debug\FromAe.exe
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\bin\Debug\FromAe.pdb
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.csprojAssemblyReference.cache
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.Properties.Resources.resources
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.RegisterForm.resources
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.csproj.GenerateResource.cache
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.csproj.CoreCompileInputs.cache
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.exe
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.pdb
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.LoginForm.resources
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.AdminForm.resources
+C:\Users\Mina Farzali\Desktop\FromAe\FromAe\FromAe\obj\Debug\FromAe.UserForm.resources
