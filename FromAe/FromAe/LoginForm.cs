@@ -39,6 +39,7 @@ namespace FromAe
                 {
                     MessageBox.Show("Admin Login successful");
                     AdminForm adminForm = new AdminForm();
+                    this.Hide();
                     adminForm.ShowDialog();
                 }
 
@@ -72,6 +73,7 @@ namespace FromAe
                         {
                             MessageBox.Show("Login successful");
                             UserForm userForm = new UserForm();
+                            this.Hide();
                             userForm.ShowDialog();
 
                         }
