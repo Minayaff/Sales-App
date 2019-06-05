@@ -68,6 +68,7 @@ namespace FromAe
         private void Loginlbl_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             LoginForm login = new LoginForm();
+            this.Hide();
             login.ShowDialog();
 
         }
